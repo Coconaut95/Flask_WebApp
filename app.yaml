@@ -1,0 +1,5 @@
+# Helps google app engine decide which settings to use on its server
+# Helps Google App Engine set up the right server environment for your code. 
+# This file requires only one line, which defines the Python runtime:
+
+runtime: python39
